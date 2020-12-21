@@ -1,0 +1,41 @@
+{
+    "name": "din/contactus",
+    "description": "",
+    "license": "license",
+    "authors": [
+        {
+            "name": "http://github.com/Jeroen-G/packager-skeleton/archive/master.zip",
+            "email": "author email",
+            "homepage": "author homepage"
+        }
+    ],
+    "homepage": "https://gitlab.com/dinpackage/contactus.git",
+    "keywords": ["Laravel", "ContactUs"],
+    "require": {
+        "illuminate/support": "~7|~8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~9.0",
+        "orchestra/testbench": "~5|~6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Din\\ContactUs\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Din\\ContactUs\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Din\\ContactUs\\ContactUsServiceProvider"
+            ],
+            "aliases": {
+                "ContactUs": "Din\\ContactUs\\Facades\\ContactUs"
+            }
+        }
+    }
+}
