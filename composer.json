@@ -9,7 +9,7 @@
             "homepage": "author homepage"
         }
     ],
-    "homepage": "https://gitlab.com/dinpackage/contactus.git",
+    "homepage": "https://github.com/kosal-web/contactus.git",
     "keywords": ["Laravel", "ContactUs"],
     "require": {
         "illuminate/support": "~7|~8"
