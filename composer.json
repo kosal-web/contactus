@@ -28,7 +28,6 @@
             "Din\\ContactUs\\Tests\\": "tests"
         }
     },
-    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [
