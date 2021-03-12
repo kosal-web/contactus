@@ -1,4 +1,4 @@
-# ContactUs
+# Contact Form
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
@@ -15,18 +15,6 @@ Via Composer
 $ composer require din/contactus
 ```
 
-## Usage
-
-## Change log
-
-Please see the [changelog](changelog.md) for more information on what has changed recently.
-
-## Testing
-
-``` bash
-$ composer test
-```
-
 ## Contributing
 
 Please see [contributing.md](contributing.md) for details and a todolist.
@@ -37,7 +25,7 @@ If you discover any security related issues, please email author email instead o
 
 ## Credits
 
-- [http://github.com/Jeroen-G/packager-skeleton/archive/master.zip][link-author]
+- [kosalkan.com][link-author]
 - [All Contributors][link-contributors]
 
 ## License
