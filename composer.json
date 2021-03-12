@@ -1,15 +1,15 @@
 {
-    "name": "din/contactus",
+    "name": "din/contact-form",
     "description": "",
-    "license": "license",
+    "license": "MIT",
     "authors": [
         {
-            "name": "http://github.com/Jeroen-G/packager-skeleton/archive/master.zip",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "https://kosalkan.com",
+            "email": "kosal.web@gmail.com",
+            "homepage": "https://kosalkan.com"
         }
     ],
-    "homepage": "https://github.com/kosal-web/contactus.git",
+    "homepage": "https://github.com/kosal-web/contact-form.git",
     "keywords": ["Laravel", "ContactUs"],
     "require": {
         "illuminate/support": "~7|~8"
